@@ -1,2 +1,2 @@
 # Machine-Learning-ITA6016
-Course work for VIT Vellore Fast track (3rd Semester) - 2022-2024 
+Lab tasks for VIT Vellore Summer Semester (MCA 2022-2024) 
